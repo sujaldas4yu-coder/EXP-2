@@ -47,17 +47,52 @@ Procedure for Load test:
 6.   After tabulating all the readings the load is brought to its initial position.
 7.   The motor is switched off by using DPST switch 1 after bringing all the rheostats to initial position.
 
-Tabulation for Open Circuit Test
+Tabulation for Open Circuit Test:
+![open_tab](https://github.com/user-attachments/assets/4861700d-081b-4ef4-a601-486d0415d152)
+
 
 Tabulation for Load Test:
+![load_tab](https://github.com/user-attachments/assets/3a66830f-858a-41be-8665-cf17a98e1f6b)
+
 
 Model graph:
-Calculation: 
 
-Open circuit characteristics
+open:
+![open_graph](https://github.com/user-attachments/assets/e3c6750c-de26-4554-8d83-ddb0dd713366)
+
+
+load:
+![load_grah](https://github.com/user-attachments/assets/fa3da096-df52-4467-8e5d-d0d5aa3f6a82)
+
+
+
+Open circuit characteristics:
+![open_char](https://github.com/user-attachments/assets/81093d42-937a-4fec-861c-6449f7416c02)
+
 
   
 Load Characteristics:
- 
+![load_char](https://github.com/user-attachments/assets/76bd6e30-a7f9-48c4-b8fd-ae83f4f56a30)
+
+Diagram:
+
+open:
+![open_diagram](https://github.com/user-attachments/assets/870c496e-3580-464b-9fcd-714b1a00dfd3)
+
+
+load:
+![load_digram](https://github.com/user-attachments/assets/7a631122-83dd-4159-be51-59b1416d1d00)
+
+Simulation:
+
+open:
+![open_sim](https://github.com/user-attachments/assets/ce635f0f-5c79-491f-b0ea-f0729a68ce4e)
+
+
+
+load:
+![load_sim](https://github.com/user-attachments/assets/a909c27d-47ff-4ac7-aaf7-2b9fd9929f29)
+
+
 Result:
 The load test on separately excited generators and to obtain the characteristics was verified.
